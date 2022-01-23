@@ -98,15 +98,15 @@ contentSheet.innerHTML = `
         </div>
         <div class="task-icons"> 
             <div class="details-icon"> 
-                <img id="details-icon" src="../images/hover-down.png" alt="hover down icon">
+                <img id="details-icon" src="../../images/hover-down.png" alt="hover down icon">
             </div>
             
             <div class="task-complete-icon"> 
-                <img id = "task-complete-icon" src="../images/tick-box.png" alt="tick box icon">
+                <img id = "task-complete-icon" src="../../images/tick-box.png" alt="tick box icon">
             </div> 
 
             <div class="trash-can-icon"> 
-                <img id = "trash-can-icon" src="../images/trashcan-button.png" alt="tick box icon">
+                <img id = "trash-can-icon" src="../../images/trashcan-button.png" alt="tick box icon">
             </div> 
         </div> 
     </div> 
