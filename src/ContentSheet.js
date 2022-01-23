@@ -19,7 +19,7 @@ contentSheet.innerHTML = `
             min-height: 20px; 
             width: 100%; 
             border: none; 
-            font-size: 40px; 
+            font-size: 25px; 
             background-color: #e0e0fd; 
             border-radius: 20px; 
           font-family: 'Montserrat', sans-serif;
@@ -29,7 +29,7 @@ contentSheet.innerHTML = `
             min-height: 150px; 
             width: 100%; 
             border: none; 
-            font-size: 30px; 
+            font-size: 18px; 
             display: none; 
             margin-bottom: 10px; 
             background-color: #ecebfc; 
