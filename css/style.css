@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Sedgwick+Ave&display=swap");
+
+
+
+* {
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #c4c3fa;
+}
+
+.header {
+    width: 100%; 
+  margin-top: 20px;
+  overflow: hidden;
+
+}
+
+.header-container {
+    width: 80%; 
+    overflow: hidden;
+    margin: 0 auto; 
+
+}
+
+.app-header {
+  width: 14em;
+  float: left; 
+}
+
+.header-container h1 {
+  color: rgb(2, 11, 54);
+  font-size: 40px;
+  font-family: 'Sedgwick Ave', cursive;
+  width: 70%; 
+  float: left; 
+
+}
+
+.body-container {
+  width: 100%;
+}
+
+.app-container {
+  width: 80%;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.button-container {
+  width: 60px;
+  border: 3px solid #eeeefc;
+  border-radius: 2px;
+  padding: 5px 5px;
+  float: right; 
+}
+
+.content-sheet-container {
+    width: 100%; 
+    float: left; 
+    margin-top: 20px; 
+    margin-left: 10px; 
+}
